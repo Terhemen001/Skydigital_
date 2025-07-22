@@ -180,12 +180,8 @@ img {
 }
 
 .logo img {
-    font-size: 24px
-    font-weight: 700
-    color: var(--dark-color)
-    transform: scale(0.5)
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
 }
 
 .logo a:hover {
